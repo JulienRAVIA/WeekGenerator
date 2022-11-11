@@ -1,0 +1,18 @@
+{
+    "name": "xylis/week-generator",
+    "type": "library",
+    "require": {
+        "simshaun/recurr": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xylis\\WeekGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Julien RAVIA",
+            "email": "julien.ravia@gmail.com"
+        }
+    ]
+}
